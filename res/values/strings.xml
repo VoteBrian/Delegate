@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Delegate</string>
+    <string name="no_notes">Empty</string>
+    <string name="menu_insert">Create Task</string>
+    <string name="menu_delete">Delete Task</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_task">Edit Task</string>
+</resources>
